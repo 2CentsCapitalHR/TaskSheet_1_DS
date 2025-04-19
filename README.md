@@ -1,13 +1,13 @@
 # TaskSheet_1_Sumeet-Deshpande
-##Problem Statement
+#Problem Statement
 You are provided with historical data. Your task is to design and implement a predictive pipeline to model the stock's behavior and simulate the performance of your prediction framework in a trading context.
-##Objective
+#Objective
 ● Understand the structure of financial time series data.
 ● Engineer relevant features to extract meaningful patterns from historical data.
 ● Develop a modeling pipeline that can learn from these features.
 ● Evaluate the predictive performance of your approach using appropriate metrics.
 ● Simulate a trading strategy based on your predictions and analyze its effectiveness via backtesting and visualization.
-##Expectations
+#Expectations
 As part of the assignment, you are expected to:
 1. Design a complete data pipeline, including:
 ○ Data cleaning & preprocessing
@@ -21,7 +21,7 @@ As part of the assignment, you are expected to:
 5. Visualize results:
 ○ Equity curve (cumulative PnL)
 ○ Any other plots or charts that support your findings (e.g., feature importance, confusion matrix, etc.)
-##Deliverables
+#Deliverables
 ● A Python script or Jupyter Notebook (stock_prediction.ipynb)
 ● Clean, well-commented, and modular code
 ● Visualizations:

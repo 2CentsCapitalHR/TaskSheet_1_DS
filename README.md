@@ -3,7 +3,7 @@
 
 ##  Problem Statement
 
-You are provided with historical financial market data. Your task is to **design and implement a predictive pipeline** to model the stock's behavior and simulate the performance of your prediction framework in a realistic trading context.
+You are provided with historical financial market data(input.csv). Your task is to **design and implement a predictive pipeline** to model the stock's behavior and simulate the performance of your prediction framework in a realistic trading context.
 
 ---
 

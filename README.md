@@ -48,9 +48,9 @@ As part of this assignment, you are expected to:
 - A Jupyter Notebook or Python script named: `stock_prediction.ipynb`
 - Clean, modular, and well-documented code
 - Visualizations:
-  - 📉 Equity curve
-  - 📊 Evaluation metric plots
-  - 📌 Any additional charts supporting your approach
+  -  Equity curve
+  -  Evaluation metric plots
+  -  Any additional charts supporting your approach
 - A short markdown summary inside the notebook covering:
   - Your overall approach
   - Key features and assumptions
